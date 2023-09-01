@@ -3,6 +3,6 @@
 cd plugin
 npm i
 
-cd main
+cd ../main
 npm i
 npm run build && npm run preview
